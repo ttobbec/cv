@@ -82,3 +82,7 @@ I helped Diego F. Aranha start Voc&#234; Fiscal in Brazil which (with majority e
 Ok this goes for a general &quot;achievements&quot; section:
 
 I was invited to Start-Up Chile, helped Diego F. Aranha start Voc&#234; Fiscal in Brazil which (with majority effort and funding by voters themselves, no outside $) led to signed QR digests of polling tapes in all future Brazilian elections using electronic voting machines (still DRE, so long way to go). Now I&#39;m kicking back and enjoying the good life of myofascial recovery. I do most of my work for free and try to provide easy ways for the economy and society to support me. On a &quot;one of these days&quot; basis I keep coming back to the theme of atmospheric water capture and would someday like to do something for a #PlanetWithoutThirst. Go microfluidics and long live vaporware!
+
+# Pull requests
+
+If encoding is broken, send pull request to StackOverflow (or, i dunno). If you have books or suggestions of things for me to read, please feel free to send a pull request or say hello in the issues. If you are a beginner and want to know anything whatsoever about anything I mentioned above (like definitions for words or letters even) don't hesitate. I'm a permanent beginner.
